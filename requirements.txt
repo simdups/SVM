@@ -1,0 +1,10 @@
+numpy>=1.23,<2.0
+pandas>=1.5,<2.0
+scikit-learn>=1.2,<1.4
+scipy>=1.9,<1.11
+matplotlib>=3.5,<3.8
+liac-arff>=2.5.0
+matplotlib
+seaborn
+imbalanced-learn
+shap
